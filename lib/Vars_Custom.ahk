@@ -1,0 +1,34 @@
+/************************************************************************
+ * @description Vars_Custom
+ * @author Melo (melo@meloprofessional.com)
+ * @date 2026/06/08
+ * @version 1.0.0
+ ***********************************************************************/
+
+;@region VARS
+; CUSTOM VARIABLES
+
+/*
+Global General := {
+    BTDetect:                   true,
+    WheelSpeed:                 10,
+    gainStepsMin:               2,
+    gainStepsMax:               20
+}
+*/
+
+;ResetSettings       := Settings.Clone()
+;ResetGeneral        := General.Clone()
+;ResetOSDSettings    := OSDSettings.Clone()
+
+;App.NameCutted := "Template`nBigName"
+;Settings.SplashScreen := "Icon"
+;Debug := true
+;@endregion
+
+
+;@region INI
+;SaveToINI.Push("Settings.SplashScreen")     ; add more to INI file
+;RegisterArrayItems(SaveToINI)
+;LoadINI()
+;@endregion
